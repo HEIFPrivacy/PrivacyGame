@@ -1,2 +1,2 @@
-Younger.txt
-Older.txt
+https://heifprivacy.github.io/PrivacyGame/Younger.txt
+https://heifprivacy.github.io/PrivacyGame/Older.txt
